@@ -5,7 +5,7 @@
 
 ### Users:
 
-This dashboard was developed for Change.org as a final project for UC Berkeley's MIDS Program W209 summer course 2018. Through an interactive visualization dashboard, the project sought to enable petition campaigns to:
+This dashboard was developed using D3 for enabling light-weight analysis of a filtered Twitter stream. Through an interactive visualization dashboard, the project sought to enable petition campaigns to:
 
 1. Track campaign progress 
 2. Sharpen strategy and tactics to reach broader audiences
@@ -13,11 +13,11 @@ This dashboard was developed for Change.org as a final project for UC Berkeley's
 
 ### Specific tasks to be completed with the dashboard:
 
-Task #1: Determine current/historic number of signatures on a petition against the specific campaign goal.
-Task #2: Find tweets that relate to the campaign topic in terms of subject, time period and location.
-Task #3: Determine if the level of engagement on a campaign topic over a given period of time (measured by # of tweets x followers) is higher or lower compared to another period of time.
-Task #4: Find key influencers (on Twitter) who are raising awareness about the campaign topic.
-Task #5: Describe any key influencer. e.g. name of user,  number of followers/followers in target audience, number of tweets to target audience (e.g. policy makers, decision makers, celebrities).
+- Task #1: Determine current/historic number of signatures on a petition against the specific campaign goal.
+- Task #2: Find tweets that relate to the campaign topic in terms of subject, time period and location.
+- Task #3: Determine if the level of engagement on a campaign topic over a given period of time (measured by # of tweets x followers) is higher or lower compared to another period of time.
+- Task #4: Find key influencers (on Twitter) who are raising awareness about the campaign topic.
+- Task #5: Describe any key influencer. e.g. name of user,  number of followers/followers in target audience, number of tweets to target audience (e.g. policy makers, decision makers, celebrities).
 
 ### Data:
 
